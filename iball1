@@ -1,0 +1,4 @@
+git commit 
+          : After changes are done locally you can save them by committing them , A commit is like local a snapshot of the currect stage 
+	    batch,
+	    To which you can always come back. To create a new commit, type this command in Git Bash 
